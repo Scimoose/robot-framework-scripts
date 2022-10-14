@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  A simple test suite which checks prices of products on x-kom.pl
+Documentation  A simple resource page for the x-kom.pl website
 Library  SeleniumLibrary
 
 *** Variables ***
